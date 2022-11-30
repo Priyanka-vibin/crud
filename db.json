@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Antony",
+      "lastname": "Thomas",
+      "email": "antonythomas144@gmail.com",
+      "mobile": "9400246639",
+      "salary": "50000"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastname": "son",
+      "email": "son@gmail.com",
+      "mobile": "1234567890",
+      "salary": "2300000"
+    },
+    {
+      "id": 3,
+      "firstName": "Ram",
+      "lastname": "sam",
+      "email": "ram@123",
+      "mobile": "9080706090",
+      "salary": "500000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "fullname": "prem",
+      "email": "prem@gmail.com",
+      "password": "prem",
+      "mobile": 98765433210,
+      "id": 2
+    },
+    {
+      "fullname": "ram",
+      "email": "ram@123",
+      "password": "ram",
+      "mobile": 9876543210,
+      "id": 3
+    },
+    {
+      "fullname": "abbcd",
+      "email": "prem@gmail.com",
+      "password": "1234",
+      "mobile": 8078067857,
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
